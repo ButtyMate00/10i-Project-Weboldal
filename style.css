@@ -1,33 +1,10 @@
 body{ 
-    background: url(képek/KUNUKB.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+ background-color: #98B9AB  !important;
 }
 
-#feher{
-color: white;
-}
-
-#Kunukeys{
-background-color: rgba(255, 166, 0, 0.411);
-border-radius: 10px;
-}
-
-#pos{
-position: absolute;
-z-index: 1;
-right: 0;
-float: right;
-}
-#pos1{
-position: absolute;
-z-index: 1;
-right: 0;
-float: right;
-margin-top: -20px;
-margin-right: 20px;
-text-align: center;
-height: -20px;
+#logo{
+    max-width: 100px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
