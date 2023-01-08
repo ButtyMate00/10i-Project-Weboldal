@@ -8,7 +8,7 @@
 
 html {
   height: 200%;
-  overflow: hidden;
+  overflow: scroll;
   background: radial-gradient(ellipse at bottom, #1b2735 0%,#090a0f 100%);
   z-index: 1;
 
@@ -24,7 +24,7 @@ html {
 }
 
 #stars {
-
+  margin-left: 50px;
   width: 1px;
   height: 1px;
   background: transparent;
